@@ -1,10 +1,10 @@
 # Computer-Structure
 
-Subject
+**Subject**
 
-- 컴퓨터 구조 / 2023 HIPS 스터디
+- 컴퓨터 구조 / 2023.07 HIPS 스터디
 
-Contributer
+**Contributor**
 
 - [mingimouse](https://github.com/mingimouse) (홍민기)
 
