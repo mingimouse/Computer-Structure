@@ -1,5 +1,15 @@
 # Computer-Structure
 
+Subject
+
+- 컴퓨터 구조 / 2023 HIPS 스터디
+
+Contributer
+
+- [mingimouse](https://github.com/mingimouse) (홍민기)
+
+---
+
 ## Tabla Of Contents
 
 ### I. 컴퓨터가 이해하는 정보
