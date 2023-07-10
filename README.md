@@ -10,7 +10,7 @@
 
 ---
 
-## Tabla Of Contents
+## Table Of Contents
 
 ### I. 컴퓨터가 이해하는 정보
 
