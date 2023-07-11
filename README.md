@@ -137,7 +137,7 @@
 
 ### VI. 시스템 버스
 
-<img src="./img/computer-structure-0003.png" width="70%" height="70%">
+<img src="./img/computer-structure-0003.png" width="75%" height="75%">
 
 `시스템 버스(system bus)`는 컴퓨터의 4가지 핵심 부품들을 연결하는 가장 중요한 버스다.<br>
 
