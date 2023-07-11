@@ -55,7 +55,7 @@
 
 ## Intro
 
-<img src="./img/computer-structure-0001.png" width="60%" height="60%"> 
+<img src="./img/computer-structure-0001.png" width="70%" height="70%"> 
 
 컴퓨터 구조를 알면, 프로그래밍 언어의 문법만으로는 알기 어려운 `성능`, `용량`, `비용`을 고려하며 개발할 수 있다.<br>
 
@@ -74,7 +74,7 @@
 
 ## 컴퓨터 구조의 큰 그림
 
-<img src="./img/computer-structure-0002.png" width="70%" height="70%">
+<img src="./img/computer-structure-0002.png" width="80%" height="80%">
 
 ### I. 주기억장치(main memory)
 
@@ -137,7 +137,7 @@
 
 ### VI. 시스템 버스
 
-<img src="./img/computer-structure-0003.png" width="100%" height="100%">
+<img src="./img/computer-structure-0003.png" width="70%" height="70%">
 
 `시스템 버스(system bus)`는 컴퓨터의 4가지 핵심 부품들을 연결하는 가장 중요한 버스다.<br>
 
