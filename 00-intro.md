@@ -21,7 +21,7 @@
 
 ## 02. 컴퓨터 구조의 큰 그림
 
-<img src="./img/computer-structure-0002.png" width="100%">
+<img src="./img/computer-structure-0002.png" width="750px">
 
 ### I. 주기억장치(main memory)
 
@@ -84,7 +84,7 @@
 
 ### VI. 시스템 버스
 
-<img src="./img/computer-structure-0003.png" width="100%">
+<img src="./img/computer-structure-0003.png" width="700px">
 
 `시스템 버스(system bus)`는 컴퓨터의 4가지 핵심 부품들을 연결하는 가장 중요한 버스다.<br>
 
