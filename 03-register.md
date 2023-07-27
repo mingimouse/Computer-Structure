@@ -16,7 +16,7 @@
 
 메모리에서 가져올 명령어의 주소를 저장하는 레지스터<br>
 
-CPU의 종류에 따라 **명령어 포인터(Instruction Pointer)**라고도 한다.<br>
+CPU의 종류에 따라 **명령어 포인터(Instruction Pointer)** 라고도 한다.<br>
 
 <br>
 
