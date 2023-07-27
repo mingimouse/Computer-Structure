@@ -1,6 +1,6 @@
 # 주소 지정 방식
 
-## 0. 주소 지정 방식이란?
+## 00. 주소 지정 방식이란?
 
 `유효 주소(effective address)`: 명령어에 사용할 데이터가 저장된 위치<br>
 
@@ -8,7 +8,7 @@
 
 ---
 
-## 1. 즉시 주소 지정 방식(immediate addressing mode)
+## 01. 즉시 주소 지정 방식(immediate addressing mode)
 
 <img src="./img/computer-structure-0203.png" width="500px">
 
@@ -20,7 +20,7 @@
 
 ---
 
-## 2. 직접 주소 지정 방식(direct addressing mode)
+## 02. 직접 주소 지정 방식(direct addressing mode)
 
 <img src="./img/computer-structure-0204.png" width="600px">
 
@@ -32,7 +32,7 @@
 
 ---
 
-## 3. 간접 주소 지정 방식(indirect addressing mode)
+## 03. 간접 주소 지정 방식(indirect addressing mode)
 
 <img src="./img/computer-structure-0205.png" width="600px">
 
@@ -44,7 +44,7 @@
 
 ---
 
-## 4. 레지스터 주소 지정 방식(register addressing mode)
+## 04. 레지스터 주소 지정 방식(register addressing mode)
 
 <img src="./img/computer-structure-0206.png" width="550px">
 
@@ -56,7 +56,7 @@
 
 ---
 
-## 5. 레지스터 간접 주소 지정 방식(register indirect addressing mode)
+## 05. 레지스터 간접 주소 지정 방식(register indirect addressing mode)
 
 <img src="./img/computer-structure-0207.png" width="600px">
 
@@ -66,7 +66,7 @@
 
 ---
 
-## 6. 스택 주소 지정 방식(stack addressing mode)
+## 06. 스택 주소 지정 방식(stack addressing mode)
 
 <img src="./img/computer-structure-0208.png" width="650px">
 
@@ -78,7 +78,7 @@
 
 ---
 
-## 7. 변위 주소 지정 방식(displacement addressing mode)
+## 07. 변위 주소 지정 방식(displacement addressing mode)
 
 <img src="./img/computer-structure-0209.png" width="650px">
 
@@ -115,7 +115,7 @@
 
 ---
 
-## 8. 주소 지정 방식에 따른 자료 접근 속도
+## 08. 주소 지정 방식에 따른 자료 접근 속도
 
 1. 즉시 주소 지정 방식<br>
 
