@@ -34,13 +34,14 @@
 - [ALU와 제어장치](./03-aluNcu.md)
 - [레지스터](./03-register.md)
 - [명령어 사이클 & 인터럽트](./03-cycleNinterrupt.md)
-- CPU 설계 기법
+- [코어와 스레드](./03-coreNthread.md)
+- [CPU 성능 확인하기](03-cpuCheck.md)
 - 명령어 병렬 처리 기법
 - CISC와 RISC
 
 #### 04. 주기억장치(memory)
 
-- [RAM의 특징과 종류]./04-ram.md
+- [RAM의 특징과 종류](./04-ram.md)
 - [메모리의 주소 공간]./04-
 - [캐시 메모리]./04-cashMemory.md
 
