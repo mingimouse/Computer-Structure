@@ -29,15 +29,15 @@
 
 ### II. 컴퓨터의 4가지 핵심 부품
 
-#### 03. 중앙처리장치(CPU)
+#### 03. 중앙처리장치(CPU) / CPU 성능 향상
 
 - [ALU와 제어장치](./03-aluNcu.md)
 - [레지스터](./03-register.md)
 - [명령어 사이클 & 인터럽트](./03-cycleNinterrupt.md)
 - [코어와 스레드](./03-coreNthread.md)
 - [CPU 성능 확인하기](03-cpuCheck.md)
-- 명령어 병렬 처리 기법
-- CISC와 RISC
+- [명령어 병렬 처리 기법](03-ilp.md)
+- [CISC와 RISC](03-ciscNrisc.md)
 
 #### 04. 주기억장치(memory)
 
