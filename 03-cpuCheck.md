@@ -1,6 +1,6 @@
 # CPU 성능 확인하기
 
-<img src="/img/computer-structure-0406.png" width="700px">
+<img src="/img/computer-structure-0406.png" width="500px">
 
 > 필자의 PC는 `4코어 8스레드 CPU`이고, 한 개의 코어가 2개의 명령어 단위를 동시에 처리할 수 있다.<br>
 >
