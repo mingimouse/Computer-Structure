@@ -1,7 +1,7 @@
 # Computer-Structure
 **Subject**
 
-- `컴퓨터 구조` 스터디 | 2023.07 HIPS 스터디
+- **컴퓨터 구조** 스터디 | 2023.07 **HIPS** 스터디
 
 **Contributor**
 
