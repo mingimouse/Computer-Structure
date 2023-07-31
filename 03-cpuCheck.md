@@ -1,6 +1,6 @@
 # CPU 성능 확인하기
 
-<img src="/img/computer-structure-0406.png" width="500px">
+<img src="/img/computer-structure-0406.png" width="600px">
 
 > 필자의 PC는 `4코어 8스레드 CPU`이고, 한 개의 코어가 2개의 명령어 단위를 동시에 처리할 수 있다.<br>
 >
@@ -8,7 +8,7 @@
 
 <br>
 
-윈도우 **[작업 관리자]**의 **[성능]** 탭의 CPU를 살펴보면, 내 PC의 CPU 정보를 확인할 수 있다.<br>
+윈도우 [작업 관리자]의 [성능] 탭의 CPU를 살펴보면, 내 PC의 CPU 정보를 확인할 수 있다.<br>
 
 - `이용률`: 현재 CPU가 받고 있는 부하의 백분율<br>
 - `속도`: 현재 CPU가 구동되고 있는 **클럭 속도**<br>
