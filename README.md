@@ -9,7 +9,7 @@
 
 ---
 
-## Table Of Contents
+## Table of Contents
 
 ### Intro.
 
