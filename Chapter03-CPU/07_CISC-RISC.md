@@ -30,7 +30,7 @@
 
 ### II. 단점
 
-<img src="./img/computer-structure-0421.png" width="800px">
+<img src="../img/computer-structure-0421.png" width="800px">
 
 - 클럭주기와 실행시간이 일정하지 않다. :arrow_right: 파이프라이닝하기 어렵다.<br>
 

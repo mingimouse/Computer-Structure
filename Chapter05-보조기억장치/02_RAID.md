@@ -24,7 +24,7 @@
 
 ### I. RAID 0
 
-<img src="./img/computer-structure-0506.png" width="600px">
+<img src="../img/computer-structure-0506.png" width="600px">
 
 여러 개의 보조기억장치에 데이터를 단순히 나눠 저장하는 구성 방식 = `스트라이핑(striping)`<br>
 
@@ -38,7 +38,7 @@
 
 ### II. RAID 1
 
-<img src="./img/computer-structure-0507.png" width="600px">
+<img src="../img/computer-structure-0507.png" width="600px">
 
 거울처럼 완전한 복사본을 만드는 구성 방식 =`미러링(mirroring)`<br>
 
@@ -50,7 +50,7 @@
 
 ### III. RAID 4
 
-<img src="./img/computer-structure-0508.png" width="800px">
+<img src="../img/computer-structure-0508.png" width="800px">
 
 완전한 복사본을 만드는 대신, 패리티 정보를 저장한 장치를 두는 구성 방식<br>
 
@@ -68,7 +68,7 @@
 
 ### IV. RAID 5
 
-<img src="./img/computer-structure-0509.png" width="600px">
+<img src="../img/computer-structure-0509.png" width="600px">
 
 패리티 정보를 분산하여 저장하는 방식이다.<br>
 
@@ -78,7 +78,7 @@ RAID 4에서 발생하는 병목 현상을 해소한다.<br>
 
 ### V. RAID 6
 
-<img src="./img/computer-structure-0510.png" width="800px">
+<img src="../img/computer-structure-0510.png" width="800px">
 
 기본적으로 RAID 5와 같으나, 서로 다른 2개의 패리티 비트를 두는 방식<br>
 

@@ -24,7 +24,7 @@ RAM은 `휘발성 저장 장치(volatile memory)`다 :arrow_right: 전원을 끄
 
 ### II. RAM의 성능
 
-<img src="./img/computer-structure-0431.png" width="800px">
+<img src="../img/computer-structure-0431.png" width="800px">
 
 CPU는 RAM에는 직접 접근할 수 있지만, 보조기억장치에는 직접 접근할 수 없다.<br>
 

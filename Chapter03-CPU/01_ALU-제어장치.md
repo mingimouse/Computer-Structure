@@ -2,7 +2,7 @@
 
 ## 01. CPU의 구조
 
-<img src="./img/computer-structure-0301.png" width="300px">
+<img src="../img/computer-structure-0301.png" width="300px">
 
 `CPU(Central Processing Unit)`: 메모리에 저장된 명령어를 읽고, 해석하고, 실행하는 장치<br>
 
@@ -16,13 +16,13 @@ CPU는 다음과 같이 구성된다.<br>
 
 ## 02. CPU의 명령어 처리 과정
 
-<img src="./img/computer-structure-0302.png" width="700px">
+<img src="../img/computer-structure-0302.png" width="700px">
 
 제어장치는 1번지의 저장된 명령어를 읽기 위해 메모리에 '메모리 읽기' 제어신호를 보낸다.<br>
 
 <br>
 
-<img src="./img/computer-structure-0303.png" width="700px">
+<img src="../img/computer-structure-0303.png" width="700px">
 
 메모리는 1번지에 저장된 명령어를 CPU에 건네주고, 이것은 레지스터에 저장된다.<br>
 
@@ -32,7 +32,7 @@ CPU는 다음과 같이 구성된다.<br>
 
 <br>
 
-<img src="./img/computer-structure-0304.png" width="700px">
+<img src="../img/computer-structure-0304.png" width="700px">
 
 메모리는 3,4번지에 저장된 데이터를 CPU에 건네주고, 이것은 서로 다른 레지스터에 저장된다.<br>
 
@@ -42,7 +42,7 @@ ALU는 읽어 들인 데이터로 연산을 수행한다.<br>
 
 <br>
 
-<img src="./img/computer-structure-0305.png" width="700px">
+<img src="../img/computer-structure-0305.png" width="700px">
 
 제어장치는 2번지에 저장된 명령어를 읽기 위해 메모리에 '메모리 읽기' 제어신호를 보낸다.<br>
 
@@ -52,7 +52,7 @@ ALU는 읽어 들인 데이터로 연산을 수행한다.<br>
 
 <br>
 
-<img src="./img/computer-structure-0306.png" width="700px">
+<img src="../img/computer-structure-0306.png" width="700px">
 
 제어장치는 계산 결과를 저장하기 위해 메모리에 '메모리 쓰기' 제어신호와 결과값을 보낸다.<br>
 
@@ -60,7 +60,7 @@ ALU는 읽어 들인 데이터로 연산을 수행한다.<br>
 
 ## 03. ALU
 
-<img src="./img/computer-structure-0307.png" width="700px">
+<img src="../img/computer-structure-0307.png" width="700px">
 
 `ALU(Arithmetic Logic Unit)`: 컴퓨터 내부에서 대부분의 계산을 수행하는 장치<br>
 
@@ -76,7 +76,7 @@ ALU는 계산 결과와 더불어, 결과에 대한 추가적인 상태 정보�
 
 ### 플래그(flag)
 
-<img src="./img/computer-structure-0308.png" width="700px">
+<img src="../img/computer-structure-0308.png" width="700px">
 
 `플래그(flag)`: ALU의 연산 결과에 대한 추가적인 상태정보<br>
 
@@ -118,7 +118,7 @@ ALU는 계산 결과와 더불어, 결과에 대한 추가적인 상태 정보�
 
 ## 04. 제어장치
 
-<img src="./img/computer-structure-0309.png" width="800px">
+<img src="../img/computer-structure-0309.png" width="800px">
 
 `제어장치(Control Unit)`: 제어신호를 내보내고, 명령어를 해석하는 부품<br>
 
